@@ -1,6 +1,10 @@
+###
+
 <p align="center">
     <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/0601baa2-83bb-4b25-8f4d-f6cabcb99b5d" /></a>
 </p>
+
+###
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -8,13 +12,12 @@
   </a>
 </p>
 
+###
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1500">
 <br><br>
 
 ###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj-2517&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj-2517" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashraj-2517" alt="yashraj-2517" /></a> </p>
 
