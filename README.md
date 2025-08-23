@@ -1,7 +1,6 @@
-<br clear="both">
-
-<h1 align="center">Yello there!!👋, I'm Yashraj N</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+    <img width="500" height="500" src="https://github.com/user-attachments/assets/c5c7fbb2-88dc-4902-a81b-2ecd74b0ad8e" alt="Yashraj N" /></a>
+</p>
 
 ###
 
