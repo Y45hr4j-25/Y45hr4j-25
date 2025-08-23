@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashraj-2517" alt="yashraj-2517" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashrajn-2517" alt="yashrajn-2517" /></a> </p>
 
 - 🌱 I’m currently learning - **I’m currently learning Python (and testing my patience with testing), diving into Machine Learning, and exploring Full Stack Web Dev**
 
